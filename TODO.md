@@ -1,4 +1,4 @@
 # TODO
 
-- Pass persistentId during login to avoid duplicate notifications
-- FCM token expiration
+- Use keytar to store the secure credentials
+- Manage persisent ids, possibly use 
