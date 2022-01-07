@@ -1,46 +1,35 @@
 {
-    "version": "0.1",
-    "dictionaries": [
-        "bash",
-        "companies",
-        "css",
-        "en_US",
-        "filetypes",
-        "fonts",
-        "html",
-        "node",
-        "npm",
-        "softwareTerms",
-        "typescript"
-    ],
-    "ignorePaths": [
-        "/coverage/**",
-        "/node_modules/**",
-        "/tests/**/*.snap",
-        "/tmp/**",
-        "/index.css",
-        "/index.js",
-        "/yarn-error.log",
-        "/yarn.lock"
-    ],
-    "language": "en",
-    "words": [
-        "autohide",
-        "datepicker",
-        "eslintcache",
-        "formik",
-        "macos",
-        "npmjs",
-        "npmrc",
-        "serializers",
-        "simpleinout",
-        "simplymadeapps",
-        "sourcemap",
-        "stylelint",
-        "tailwindcss",
-        "vanillajs",
-        "vmware",
-        "weekstart",
-        "yarnrc"
-    ]
+  "version": "0.1",
+  "dictionaries": [
+    "bash",
+    "companies",
+    "css",
+    "en_US",
+    "filetypes",
+    "fonts",
+    "html",
+    "node",
+    "npm",
+    "softwareTerms",
+    "typescript"
+  ],
+  "ignorePaths": [
+    "/coverage/**",
+    "/node_modules/**",
+    "/tests/**/*.snap",
+    "/tmp/**",
+    "/index.css",
+    "/index.js",
+    "/yarn-error.log",
+    "/yarn.lock"
+  ],
+  "language": "en",
+  "words": [
+    
+    "eslintcache",
+    "npmjs",
+    "npmrc",
+    "simplymadeapps",
+    "yarnrc"
+  ]
 }
